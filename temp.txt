@@ -1,0 +1,8 @@
+Iki keklik;Erkan Oğur;1001;Türk Halk;1996
+Billie Jean;Michael Jackson;1005;Pop;1983
+Hotel California;Eagles;1006;Rock;1977
+Rolling in the Deep;Adele;1008;Pop;2010
+Shape of You;Ed Sheeran;1003;Pop;2017
+Smells Like Teen Spirit;Nirvana;1009;Grunge;1991
+Like a Rolling Stone;Bob Dylan;1010;Rock;1969
+sule ;nilhan;1019;rock;2000
